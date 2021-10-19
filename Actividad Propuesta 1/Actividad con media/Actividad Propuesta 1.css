@@ -1,0 +1,76 @@
+@media all{
+    p{
+        font-weight: bold;
+        font-size: 20px;
+    }
+}
+
+@media screen{
+    img{
+        display: block;
+        margin: auto;
+    }
+}
+
+@media print{
+    p{
+        text-align: left;
+    }
+    img{
+        float: left;;
+    }
+}
+
+@media print{
+    p{
+        text-align: left;
+    }
+    img{
+        float: left;
+    }
+}
+
+@media braille{
+    p{
+        text-align: left;
+    }
+    img{
+        float: left;
+    }
+}
+
+@media handheld{
+    p{
+        text-align: left;
+    }
+    img{
+        float: left;
+    }
+}
+
+@media projection{
+    p{
+        text-align: left;
+    }
+    img{
+        float: left;
+    }
+}
+
+@media speech{
+    p{
+        text-align: left;
+    }
+    img{
+        float: left;
+    }
+}
+
+@media tv{
+    p{
+        text-align: left;
+    }
+    img{
+        float: left;
+    }
+}

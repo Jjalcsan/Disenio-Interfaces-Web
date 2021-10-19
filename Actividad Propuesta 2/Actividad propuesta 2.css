@@ -1,0 +1,5 @@
+body{
+	column-count: 3;
+	column-width: 33%;
+	background-color: rgb(0, 0, 255, 0.3);
+}
